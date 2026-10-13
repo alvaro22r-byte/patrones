@@ -9,6 +9,7 @@ escasez de empleados, alta rotación, baja productividad y conflictos de actitud
 2. [Soluciones: qué hacer en cada etapa](docs/02-soluciones.md)
 3. [Cómo aprovechar la crisis: oportunidades](docs/03-oportunidades.md)
 4. [Plan de acción de 90 días](docs/04-plan-90-dias.md)
+5. [Crear una solución: ideas de negocio más allá de la bolsa de empleo](docs/05-crear-una-solucion.md)
 
 Plantillas listas para usar:
 
@@ -54,7 +55,10 @@ tipo de persona.
 resuelva primero se queda con los mejores trabajadores **y** con los clientes que los
 otros atienden mal. Además, la crisis abre negocios nuevos: agencias de personal
 capacitado, centros de capacitación, recursos humanos para pequeñas empresas y
-automatización para comercios.
+automatización para comercios. La idea recomendada para empezar está en
+[Crear una solución](docs/05-crear-una-solucion.md): un servicio de padrinos mayores
+de 50 años que acompañan a los empleados nuevos, y cuyo cobro principal depende de
+que se queden.
 
 > Las leyes laborales cambian según el país. Antes de modificar contratos, esquemas
 > de pago, horarios o despidos, consulta con un contador o abogado laboral.

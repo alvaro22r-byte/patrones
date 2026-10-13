@@ -55,7 +55,8 @@ comerciantes:
 ## D. Negocios nuevos que crea la crisis
 
 La falta de personal es un problema por el que muchos negocios ya están dispuestos a
-pagar. Si eres emprendedor, estas son oportunidades:
+pagar. Si quieres emprender, estas son oportunidades (en
+[Crear una solución](05-crear-una-solucion.md) están desarrolladas a fondo):
 
 - **Agencia local de personal eventual o temporal**, con gente preseleccionada y
   capacitada para cubrir faltas, picos y temporadas.
