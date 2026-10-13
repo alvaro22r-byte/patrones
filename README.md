@@ -10,6 +10,7 @@ escasez de empleados, alta rotación, baja productividad y conflictos de actitud
 3. [Cómo aprovechar la crisis: oportunidades](docs/03-oportunidades.md)
 4. [Plan de acción de 90 días](docs/04-plan-90-dias.md)
 5. [Crear una solución: ideas de negocio más allá de la bolsa de empleo](docs/05-crear-una-solucion.md)
+6. [Zona de alta demanda: cuando sobra trabajo y aun así nadie dura](docs/06-zona-de-alta-demanda.md)
 
 Plantillas listas para usar:
 

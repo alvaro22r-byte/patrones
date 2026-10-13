@@ -134,6 +134,10 @@ usuarios para funcionar, así que es mejor como segunda etapa de otra idea.
 
 ## Recomendación: empezar por "Puente"
 
+> Si en tu zona hay empresas grandes que pagan por encima del mercado y aun así
+> pierden gente, lee también [Zona de alta demanda](06-zona-de-alta-demanda.md):
+> esas empresas pueden ser mejores clientes que los negocios pequeños.
+
 1. **Casi no necesita capital:** un teléfono, transporte y las
    [plantillas](../plantillas/onboarding-90-dias.md) que ya tienes.
 2. **No contratas a los trabajadores**, así que evitas los riesgos de subcontratación.
